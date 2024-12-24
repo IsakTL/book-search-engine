@@ -2,7 +2,7 @@ import User from '../models/index.js';
 
 const resolvers = {
   Query: {
-    classes: async () => {
+    users: async () => {
       return await User.find({});
     },
   },
