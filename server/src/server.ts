@@ -1,3 +1,4 @@
+// Changes approved by Dan Mueller, instructor.
 import express from 'express';
 import path from 'node:path';
 import db from './config/connection.js';
