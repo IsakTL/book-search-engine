@@ -1,1 +1,1 @@
-Starter code in Schemas from module 18, activity 1
+Code basis in Schemas from module 18, activity 26. Other starter code provided as part of assignment.
